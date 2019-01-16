@@ -18,7 +18,7 @@
 #define VENDOR_LINEAGE_LIVEDISPLAY_V1_0_TYPES_H
 
 #include <utils/RefBase.h>
-#include <vendor/lineage/livedisplay/1.0/IColor.h>
+#include <vendor/aosap/livedisplay/1.0/IColor.h>
 #include <string>
 
 namespace vendor {
